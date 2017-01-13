@@ -9,12 +9,10 @@
   },
   "author": "Riccardo Causo",
   "license": "ISC",
-  "devDependencies": {
-    "node-rest-client": "^2.0.1"
-  },
+  "devDependencies": {},
   "dependencies": {
     "express": "^4.14.0",
-    "simple-oauth2": "^1.0.2",
-    "unirest": "^0.5.1"
+    "node-fetch": "^1.6.3",
+    "simple-oauth2": "^1.0.2"
   }
 }
